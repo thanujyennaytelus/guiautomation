@@ -51,7 +51,7 @@ https://github.com/thanujyennaytelus/guiautomation
 
 
 11.	This takes away the condition where the action.json file consists of the trace path of hovering and interacting with the gui application window.
-
+12. Install the required modules using the requirements.txt file 
 
 Issues and updates: 
 
